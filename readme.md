@@ -1,4 +1,4 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/create-an-in-game-inventory-ui-with-ui-toolkit/).
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
 
 #  Create an runtime inventory UI with UI Toolkit
 
